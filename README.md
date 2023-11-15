@@ -1,4 +1,2 @@
 # HappyClusters
-
-
-Segregated 
+divided
